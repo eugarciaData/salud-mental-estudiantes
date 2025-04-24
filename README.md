@@ -2,7 +2,7 @@
 
 ![Dashboard Preview](images/salud_mental_demo.gif)
 
-Este proyecto analiza variables relacionadas con la salud mental en estudiantes internacionales, utilizando Power BI para visualizar datos como niveles de depresión (PHQ-9), estrés por aculturación (ASIS), conectividad social (SCS), dominio de idiomas, y otros factores.
+Este proyecto analiza variables relacionadas con la salud mental en estudiantes internacionales, utilizando Power BI para visualizar datos como niveles de depresión (PHQ-9), estrés por aculturación (ASISS), conectividad social (SCS), dominio de idiomas, y otros factores.
 
 ## 📊 Herramientas utilizadas
 - Power BI
